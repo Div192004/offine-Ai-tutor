@@ -1,0 +1,10 @@
+{
+  "name": "offline-tutor-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A beginner-friendly MERN web prototype for Offline Tutor AI",
+  "scripts": {
+    "dev:client": "npm --prefix client run dev",
+    "dev:server": "npm --prefix server run dev"
+  }
+}
